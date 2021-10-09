@@ -1,0 +1,24 @@
+{
+  "name": "ulink-request",
+  "version": "1.0.1",
+  "description": "基于ulink的http请求二次封装",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddmy/ulink-request.git"
+  },
+  "keywords": [
+    "ulink",
+    "http"
+  ],
+  "author": "Yijio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddmy/ulink-request/issues"
+  },
+  "homepage": "https://github.com/ddmy/ulink-request#readme"
+}
